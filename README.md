@@ -50,7 +50,7 @@ Both models were further fine-tuned using hyperparameter optimization to achieve
 
 ---
 
-## 📎 Sample Predictions
+## Sample Predictions
 
 - **Input**: "Chart Of The Day: The Great Prosperity Vs. The Great Regression"  
   **Prediction**: *Fake News*
